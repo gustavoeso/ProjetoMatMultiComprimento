@@ -1,4 +1,5 @@
 import math
+
 sen = math.sin
 cos = math.cos
 pi = math.pi
