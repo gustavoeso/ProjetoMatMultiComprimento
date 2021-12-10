@@ -5,4 +5,4 @@ area. Isso também foi feito com 1.000.000 de iterações (ou pontos).
 
 Tambem tem o codigo para calcular a derivada vertical e horizontal, ou seja, quando a derivada em X = 0 e Y = 0.
 
-Calcula coordenada pega o ponto e transforma ele em uma coordenada.
+Arquivo função inclue calculos para coordenadas e pontos de reta tangente vertical e horizontal
